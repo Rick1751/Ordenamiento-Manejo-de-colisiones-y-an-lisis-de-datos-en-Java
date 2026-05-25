@@ -16,7 +16,6 @@ Este repositorio contiene el entorno de desarrollo y las herramientas necesarias
 ## Estructura del Proyecto
 
 * `.devcontainer/`: Configuración para levantar el entorno automatizado en Docker.
-* `ijava/`: Configuración y dependencias del kernel de Java para Jupyter.
 * `00_PrimerosPasos.ipynb`: Notebook interactivo para la carga y manipulación de datos.
 * `movies.csv`: Dataset principal con los datos de las películas.
 
