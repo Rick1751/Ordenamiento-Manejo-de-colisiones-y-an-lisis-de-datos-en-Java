@@ -2,6 +2,12 @@
 
 Este repositorio contiene el entorno de desarrollo y las herramientas necesarias para realizar un Análisis Exploratorio de Datos (EDA) sobre un conjunto de datos cinematográficos (`movies.csv`), [https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies] utilizando Java de forma interactiva mediante Jupyter Notebooks dentro de un contenedor aislado.
 
+## Integrantes del equipo de trabajo
+
+- Enrique Betancourt
+- Valeria Chavez
+- Ricardo Leon
+
 ## Requisitos Previos
 
 * Docker Desktop instalado y corriendo.
