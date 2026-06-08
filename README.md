@@ -10,7 +10,8 @@ Este repositorio contiene el entorno de desarrollo y las herramientas necesarias
 
 ## Requisitos Previos
 
-* Docker Desktop instalado y corriendo.
+* Docker Desktop instalado y corriendo. (Activar la integracion en docker con wsl en los ajustes)
+* Wsl
 * Visual Studio Code con la extensión **Dev Containers** instalada.
 
 ## Estructura del Proyecto
